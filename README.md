@@ -15,22 +15,33 @@ This project is my first Flutter application, created to learn and practice Flut
 #### Technologies Used
 * Flutter: For creating the frontend using Flutter widgets.
 * Dart: As the programming language.
-### Screenshots
-#### Product Page
+  
+## Screenshots
+### Home Page
+<div align="center">
+<img src="images/demo/home.png" width="400" alt="Home Page">
+</div>
 
-#### Product Page
-#### Product Page
-#### Product Page
+
+### Profile Page
+<div align="center">
+<img src="images/demo/profile.png" width="400" alt="Profile Page">
+</div>
 
 
-### Demo
-#### Video 1
-[Watch the demo video here](
+### Cart Page
+<div align="center">
+<img src="images/demo/cart.png" width="400" alt="Cart Page">
+</div>
 
-Simulator Screen Recording - iPhone 15 Pro Max
-#### Video 2
-[Watch the demo video here](
-Simulator Screen Recording - iPhone 15 Pro Max
+
+### Product Page
+<div align="center">
+<img src="images/demo/product.png" width="400" alt="Product Page">
+
+</div>
+
+
 ### Setup Instructions
 1. Clone the repository.
 2. Install Flutter SDK and ensure it is properly set up.
@@ -39,3 +50,11 @@ Simulator Screen Recording - iPhone 15 Pro Max
 ### Acknowledgments
 This project was created as a part of my Flutter learning journey. It focuses only on the frontend and does not include backend functionality.
 Feel free to contribute or provide feedback! 😊
+
+
+## Demo
+#### Simulator Screen Recording 
+
+![Demo Video](images/demo/demoVideo.gif)
+
+Simulator Screen Recording - iPhone 15 Pro Max
